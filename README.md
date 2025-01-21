@@ -10,11 +10,8 @@
   Hi, I'm Angelo Indre, Recent graduate with Bachelors in Computer Science & Software Developer from Akron, OH.
   <br>
   <br>
-  🧑‍💼 I'm currently interning at <a href="https://www.blazebite.com">Blazebite</a>
-  <br>
   💻 I love Writing code, learning, playing music with my band. 💻🎹🤓
   <br>
-  📚 I’m currently learning PowerBI
   <br>
   📫 How to reach me 👇
 </p>
